@@ -1,2 +1,1 @@
-# lop-listas-cpp
-Listas feitas no LOP da UFRN
+# Listas feitas no sistema LOP da UFRN
